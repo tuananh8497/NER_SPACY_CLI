@@ -1,0 +1,42 @@
+[
+    {
+        "Word": "drugs",
+        "Frequency": 146
+    },
+    {
+        "Word": "drug",
+        "Frequency": 54
+    },
+    {
+        "Word": "marihuana",
+        "Frequency": 32
+    },
+    {
+        "Word": "opium",
+        "Frequency": 18
+    },
+    {
+        "Word": "methadone",
+        "Frequency": 18
+    },
+    {
+        "Word": "psychotropic",
+        "Frequency": 12
+    },
+    {
+        "Word": "narcotic",
+        "Frequency": 9
+    },
+    {
+        "Word": "alcohol",
+        "Frequency": 9
+    },
+    {
+        "Word": "heroin",
+        "Frequency": 7
+    },
+    {
+        "Word": "narcotics",
+        "Frequency": 7
+    }
+]

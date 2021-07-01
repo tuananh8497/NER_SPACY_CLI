@@ -1,0 +1,42 @@
+[
+    {
+        "Word": "drugs",
+        "Frequency": 187
+    },
+    {
+        "Word": "opium",
+        "Frequency": 38
+    },
+    {
+        "Word": "drug",
+        "Frequency": 27
+    },
+    {
+        "Word": "alcohol",
+        "Frequency": 26
+    },
+    {
+        "Word": "poppy",
+        "Frequency": 25
+    },
+    {
+        "Word": "heroin",
+        "Frequency": 25
+    },
+    {
+        "Word": "sub",
+        "Frequency": 17
+    },
+    {
+        "Word": "narcotics",
+        "Frequency": 16
+    },
+    {
+        "Word": "narcotic",
+        "Frequency": 14
+    },
+    {
+        "Word": "amphetamines",
+        "Frequency": 13
+    }
+]

@@ -1,0 +1,108 @@
+config:
+  cmd: python -m spacy run config
+  script:
+    - python -m spacy init fill-config ./configs/base_config.cfg ./configs/config.cfg
+  deps:
+    - path: configs/base_config.cfg
+      md5: 4ff30dbd0374e7b05631888968f35f82
+  outs:
+    - path: configs/config.cfg
+      md5: 1df86cd1fa061c2f5697b77b82b295c4
+  spacy_version: 3.0.6
+  spacy_git_version: df3444421
+preprocess:
+  cmd: python -m spacy run preprocess
+  script:
+    - python scripts/preprocess.py assets/drugs_training.jsonl corpus/drugs_training.spacy
+    - python scripts/preprocess.py assets/drugs_eval.jsonl corpus/drugs_eval.spacy
+  deps:
+    - path: assets/drugs_training.jsonl
+      md5: 4461081e67d8160cab4624e61448f371
+    - path: assets/drugs_eval.jsonl
+      md5: 4d730f6132de46fad3f76720ce9794f7
+    - path: scripts/preprocess.py
+      md5: c1b6ad0e6e5ad7102a6d3fb0de7a4101
+  outs:
+    - path: corpus/drugs_training.spacy
+      md5: fd7cc4b9ba976b707b34717060a6af40
+    - path: corpus/drugs_eval.spacy
+      md5: f4461fddd089241b3660c2a55cb09a9b
+  spacy_version: 3.0.6
+  spacy_git_version: df3444421
+download:
+  cmd: python -m spacy run download
+  script:
+    - python -m spacy download en_core_web_lg
+  deps: []
+  outs: []
+  spacy_version: 3.0.6
+  spacy_git_version: df3444421
+create-config:
+  cmd: python -m spacy run create-config
+  script:
+    - python scripts/create_config.py en_core_web_lg ner configs/config.cfg
+  deps:
+    - path: scripts/create_config.py
+      md5: 845c2ddc3306b41865684f8d043e6f63
+  outs:
+    - path: configs/config.cfg
+      md5: 9e95b6a9bc557994ebaedcb2fbb4b396
+  spacy_version: 3.0.6
+  spacy_git_version: df3444421
+train:
+  cmd: python -m spacy run train
+  script:
+    - python -m spacy train configs/config.cfg --output training/ --paths.train corpus/drugs_training.spacy
+      --paths.dev corpus/drugs_eval.spacy
+  deps:
+    - path: corpus/drugs_training.spacy
+      md5: fd7cc4b9ba976b707b34717060a6af40
+    - path: corpus/drugs_eval.spacy
+      md5: f4461fddd089241b3660c2a55cb09a9b
+  outs:
+    - path: training/model-best
+      md5: da73bab009bd7898738e8212bbfa34f8
+  spacy_version: 3.0.6
+  spacy_git_version: df3444421
+evaluate:
+  cmd: python -m spacy run evaluate
+  script:
+    - python -m spacy evaluate training/model-best corpus/drugs_eval.spacy --output
+      training/metrics.json
+  deps:
+    - path: corpus/drugs_eval.spacy
+      md5: f4461fddd089241b3660c2a55cb09a9b
+    - path: training/model-best
+      md5: da73bab009bd7898738e8212bbfa34f8
+  outs:
+    - path: training/metrics.json
+      md5: 8b94809648214a9862739bb3fcaec2cd
+  spacy_version: 3.0.6
+  spacy_git_version: df3444421
+to-json-and-sum:
+  cmd: python -m spacy run to-json-and-sum
+  script:
+    - python scripts/test_frequencies.py ./ocr/ training/test.json
+  deps: []
+  outs: []
+  spacy_version: 3.0.6
+  spacy_git_version: df3444421
+summarise:
+  cmd: python -m spacy run summarise
+  script:
+    - python scripts/entity_extraction.py ./ocr/ ner/ner_extract/ner_extracted_ ner/ner_summary/ner_summary_
+  deps:
+    - path: scripts/entity_extraction.py
+      md5: 19863052a3ac1555387e5649cb59fc96
+  outs: []
+  spacy_version: 3.0.6
+  spacy_git_version: df3444421
+clean:
+  cmd: python -m spacy run clean
+  script:
+    - rm -rf corpus/*
+    - rm -rf training/*
+  deps: []
+  outs: []
+  spacy_version: 3.0.6
+  spacy_git_version: df3444421

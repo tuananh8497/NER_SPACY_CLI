@@ -1,0 +1,42 @@
+[
+    {
+        "Word": "drugs",
+        "Frequency": 157
+    },
+    {
+        "Word": "drug",
+        "Frequency": 16
+    },
+    {
+        "Word": "prescriptions",
+        "Frequency": 7
+    },
+    {
+        "Word": "methaqualone",
+        "Frequency": 6
+    },
+    {
+        "Word": "hydrochloride",
+        "Frequency": 4
+    },
+    {
+        "Word": "medicaments",
+        "Frequency": 3
+    },
+    {
+        "Word": "operatories",
+        "Frequency": 2
+    },
+    {
+        "Word": "hydroquinone",
+        "Frequency": 2
+    },
+    {
+        "Word": "hypnotic",
+        "Frequency": 2
+    },
+    {
+        "Word": "amphetamine",
+        "Frequency": 2
+    }
+]

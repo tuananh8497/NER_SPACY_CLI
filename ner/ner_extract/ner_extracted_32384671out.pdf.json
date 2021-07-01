@@ -1,0 +1,2070 @@
+[
+    [
+        "office of the status of women to provide background information for the premiers' meeting on the national campaign against' contents summary of key issues raised (including summary of appendix a) overview patterns of use of drugs extent of use sources tables and graphs appendix a - report of the nsw task force on women in prison - summary of and excerpts from relevant sections of chapter 3 on women and appendix b - reports of experience of services for drug dependent women.",
+        {
+            "entities": [
+                [
+                    "drugs",
+                    224,
+                    229,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "background information paper on women and drugs summary of key issues raised overview strategies for the prevention, treatment and control of drug use should take account of specific problems of provision should be made for the needs of women in the short-term and their needs more adequately ascertained in the medium-term so that appropriate long-term policies can .the use of legally prescribed mood-altering drugs is significantly more frequent among women of all ages than among men.",
+        {
+            "entities": [
+                [
+                    "drugs",
+                    43,
+                    48,
+                    "DRUG"
+                ],
+                [
+                    "drug",
+                    143,
+                    147,
+                    "DRUG"
+                ],
+                [
+                    "drugs",
+                    413,
+                    418,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "suggested initiatives include - ensure that the underlying problems leading to drug abuse among women are fully explored - ensuring access to support services - reducing demand for drugs by women patients - producing guidelines for prescribing - educating and assisting doctors in appropriate management of psychological problems of women - attention to problem of diversion of supplies obtained legally by women from doctors.",
+        {
+            "entities": [
+                [
+                    "drugs",
+                    182,
+                    187,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "fuse of illict drugs by women highlights particular - associated prostitution and homelessness - pregnancy and addiction - problems faced by women addicts in gaol and in drug treatment programs .the means by which drugs are obtained, legally or illegally, is only one factor in determining the likely harm to the individual and to the community - the risk entailed in drug use depends on a combination of the drug effects, the characteristics of the user, and the environment in which the person uses the drug patterns of drug use .mood-altering drugs may be used in one or more of the a. experimental drug use b. social or recreational use c. circumstantial or situational drug use d. intensified drug use e. compulsive drug use .these five kinds of use carry different levels of risk.",
+        {
+            "entities": [
+                [
+                    "drugs",
+                    16,
+                    21,
+                    "DRUG"
+                ],
+                [
+                    "drugs",
+                    215,
+                    220,
+                    "DRUG"
+                ],
+                [
+                    "drug",
+                    369,
+                    373,
+                    "DRUG"
+                ],
+                [
+                    "drug",
+                    523,
+                    527,
+                    "DRUG"
+                ],
+                [
+                    "drugs",
+                    547,
+                    552,
+                    "DRUG"
+                ],
+                [
+                    "drug",
+                    603,
+                    607,
+                    "DRUG"
+                ],
+                [
+                    "drug",
+                    675,
+                    679,
+                    "DRUG"
+                ],
+                [
+                    "drug",
+                    699,
+                    703,
+                    "DRUG"
+                ],
+                [
+                    "drug",
+                    722,
+                    726,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "intensive or compulsive drug use, where daily life is preoccupied with the drug, is more likely to cause damage to health and to the community.",
+        {
+            "entities": [
+                [
+                    "drug",
+                    25,
+                    29,
+                    "DRUG"
+                ],
+                [
+                    "drug",
+                    76,
+                    80,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "extent of use women had used a ''tranquilliser, sedative or other medicine for a nervous condition'' in the two days previous prescribing of psychotropic drugs by doctors in australia has stabilised for prescriptions under the pharmaceutical benefits scheme.",
+        {
+            "entities": [
+                [
+                    "sedative",
+                    49,
+                    57,
+                    "DRUG"
+                ],
+                [
+                    "psychotropic drugs",
+                    142,
+                    160,
+                    "DRUG"
+                ],
+                [
+                    "prescriptions",
+                    204,
+                    217,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        ".extent of heroin use by women is not well documented but evidence contained in nsw women in prison task force report suggests that use of heroin is a particular problem appendix (from report of the nsw task force on women in offences.",
+        {
+            "entities": [
+                [
+                    "heroin",
+                    12,
+                    18,
+                    "DRUG"
+                ],
+                [
+                    "heroin",
+                    140,
+                    146,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "a study revealed that 78% of women in custody had a history of drug and/or alcohol use, heroin being the drug most frequently used.",
+        {
+            "entities": [
+                [
+                    "drug",
+                    64,
+                    68,
+                    "DRUG"
+                ],
+                [
+                    "alcohol",
+                    76,
+                    83,
+                    "DRUG"
+                ],
+                [
+                    "heroin",
+                    89,
+                    95,
+                    "DRUG"
+                ],
+                [
+                    "drug",
+                    106,
+                    110,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "the incidence of drug/alcohol use was higher among young women aged the task force concluded that prison is an inappropriate the aims of rehabilitation to promote change and present new life options - to offer information about drug use imprisonment is counterproductive and perpetuates the cycle of homelessness, poverty and unemployment in which many drug dependent women are caught up.",
+        {
+            "entities": [
+                [
+                    "drug",
+                    18,
+                    22,
+                    "DRUG"
+                ],
+                [
+                    "alcohol",
+                    23,
+                    30,
+                    "DRUG"
+                ],
+                [
+                    "drug",
+                    229,
+                    233,
+                    "DRUG"
+                ],
+                [
+                    "drug",
+                    354,
+                    358,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "many drug-dependent women may have sexual problems - anxiety and guilt over sexual history - use of sexuality to barter for necessities of life.",
+        {
+            "entities": [
+                [
+                    "drug",
+                    6,
+                    10,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "services for drug-dependent women need to be directed towards their needs for educational, vocational training, employment and counselling for sexual abuse as well as their drug use.",
+        {
+            "entities": [
+                [
+                    "drug",
+                    174,
+                    178,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "treatment programs need to address broader issues such as sexual abuse and poor self-esteem, as well as focussing on drug abuse - women on drug-related offences should have access to life skills that provide alternatives to domestic training for staff in drug and alcohol services needs to give attention to a number of issues of particular significance to drug dependent women including - under or overeating as a response to stress - use of drugs to achieve weight loss - relationship between narcotic use and anorexia esteem expressed in physical ways - effects of loss of custody on a mother - need to provide child care facilities for outpatient - the effects of social attitudes towards all agencies in the drug and alcohol field need to be encouraged to assess their success rate in attracting and retaining women in their programs.",
+        {
+            "entities": [
+                [
+                    "drug",
+                    140,
+                    144,
+                    "DRUG"
+                ],
+                [
+                    "drug",
+                    256,
+                    260,
+                    "DRUG"
+                ],
+                [
+                    "alcohol",
+                    265,
+                    272,
+                    "DRUG"
+                ],
+                [
+                    "drugs",
+                    444,
+                    449,
+                    "DRUG"
+                ],
+                [
+                    "narcotic",
+                    496,
+                    504,
+                    "DRUG"
+                ],
+                [
+                    "drug",
+                    714,
+                    718,
+                    "DRUG"
+                ],
+                [
+                    "alcohol",
+                    723,
+                    730,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "1.1 the use of mood-altering drugs prescribed legally in the course of routine consultations - medically condoned use - is more frequent among women of all ages than among men.",
+        {
+            "entities": [
+                [
+                    "drugs",
+                    30,
+                    35,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "women are more frequently numbered among long-term users of these drugs, specifically minor tranquillisers shows that the reasons for prescribing these drugs are most often anxiety, depression and insomnia.",
+        {
+            "entities": [
+                [
+                    "drugs",
+                    67,
+                    72,
+                    "DRUG"
+                ],
+                [
+                    "drugs",
+                    153,
+                    158,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "breaking silence is in itself an important part of changing public attitudes; censuringwomen gain access to support services in response to their needs, current community needs, both related to drugs themselves and to the general and gynaecological health of reducingdemand for drugs by women as producingand assisting doctors in appropriate management of psychological problems of women; the problem of diversion of supplies obtained legally by women from doctors needs particular attention.",
+        {
+            "entities": [
+                [
+                    "drugs",
+                    196,
+                    201,
+                    "DRUG"
+                ],
+                [
+                    "drugs",
+                    281,
+                    286,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "1.2 strategies for prevention, treatment and control of the excessive or inappropriate use of mood- altering drugs should take account of specific problems of women in relation to drug use and drug 1.3the magnitude of the long-term task of controlling drug use and misuse should not distract policy makers at federal and state levels from the practicalities of providing for women in need now, in the short-term, and ascertaining their needs 1.4 the use of mood altering drugs from illicit sources by women has highlighted particular the associations with prostitution and the problems faced by women addicts when the problems faced by women addicts in gaol and the problems faced by women addicts in drug treatment programs; the association between drug use and prostitution; is it one of cause and effect.",
+        {
+            "entities": [
+                [
+                    "drugs",
+                    110,
+                    115,
+                    "DRUG"
+                ],
+                [
+                    "drug",
+                    181,
+                    185,
+                    "DRUG"
+                ],
+                [
+                    "drug",
+                    194,
+                    198,
+                    "DRUG"
+                ],
+                [
+                    "drug",
+                    254,
+                    258,
+                    "DRUG"
+                ],
+                [
+                    "drugs",
+                    473,
+                    478,
+                    "DRUG"
+                ],
+                [
+                    "drug",
+                    752,
+                    756,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "or are both activities related to underlying social factors, such as unemployment, or the problem of women being forced to leave their children behind to enter a drug 1.5 the context for social policy objectives the use and misuse of drugs by women and men is entrenched in our society.",
+        {
+            "entities": [
+                [
+                    "drug",
+                    163,
+                    167,
+                    "DRUG"
+                ],
+                [
+                    "drugs",
+                    235,
+                    240,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "to be effective, policy must recognise the concept of relative risk of different kinds of drug use.",
+        {
+            "entities": [
+                [
+                    "drug",
+                    91,
+                    95,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "''a drug is not of itself good or bad, neither is the use of a drug automatically good or the risk entailed in the particular use of a particular drug depends on a combination of the characteristics of the person using the drug and the environment in which the person uses the drug.",
+        {
+            "entities": [
+                [
+                    "drug",
+                    5,
+                    9,
+                    "DRUG"
+                ],
+                [
+                    "drug",
+                    64,
+                    68,
+                    "DRUG"
+                ],
+                [
+                    "drug",
+                    147,
+                    151,
+                    "DRUG"
+                ],
+                [
+                    "drug",
+                    224,
+                    228,
+                    "DRUG"
+                ],
+                [
+                    "drug",
+                    278,
+                    282,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "all drugs which alter mood, whether obtained legally or illegally, can be detrimental to health and can be harmful to the community.",
+        {
+            "entities": [
+                [
+                    "drugs",
+                    5,
+                    10,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "the means by which they are obtained is only one factor in determining the likely harm to the individual and to the 2.0 patterns of use of drugs drugs which alter mood are used in one or more of the following patterns, as outlined below in the excerpt from the final report of the sa royal commission into this is a single or short-term use, often by a young person, motivated primarily by curiosity or by a desire to experience new feelings or moods.",
+        {
+            "entities": [
+                [
+                    "drugs",
+                    146,
+                    151,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "it is the way in which schoolage children or adolescents try the effects of tobacco or alcohol or illegally used drugs, most commonly cannabis.",
+        {
+            "entities": [
+                [
+                    "tobacco",
+                    77,
+                    84,
+                    "DRUG"
+                ],
+                [
+                    "alcohol",
+                    88,
+                    95,
+                    "DRUG"
+                ],
+                [
+                    "drugs",
+                    114,
+                    119,
+                    "DRUG"
+                ],
+                [
+                    "cannabis",
+                    135,
+                    143,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "adults try out many things, including new drugs.",
+        {
+            "entities": [
+                [
+                    "drugs",
+                    43,
+                    48,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "on the whole their experimentation (although they many not see it as such) is more likely to be with legally available tranquillisers, sedatives or appetite b. social or recreational use some of those who have experimented with a given drug will become experienced in using it.",
+        {
+            "entities": [
+                [
+                    "sedatives",
+                    136,
+                    145,
+                    "DRUG"
+                ],
+                [
+                    "drug",
+                    237,
+                    241,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "they will then know what drug suits them and in what circumstances.",
+        {
+            "entities": [
+                [
+                    "drug",
+                    26,
+                    30,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "if they like the effects, and particularly if they like the group participatory element in what they are doing, they may decide to take it on social occasions when others are doing from the control point of view, an understanding of this recreational use of drugs has little to do with the legality or illegality of the behaviour.",
+        {
+            "entities": [
+                [
+                    "drugs",
+                    259,
+                    264,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "the use of the drug is voluntary and takes place only on those social occasions.",
+        {
+            "entities": [
+                [
+                    "drug",
+                    16,
+                    20,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "c. circumstantial or situational drug use there are other occasions where drugs are widely used, but still with the individual user in a position of choice and control.",
+        {
+            "entities": [
+                [
+                    "drug",
+                    34,
+                    38,
+                    "DRUG"
+                ],
+                [
+                    "drugs",
+                    75,
+                    80,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "other circumstances where drugs are commonly used to relieve stressful personal or social situations are those where shock, or loss have temporarily become too much to bear.",
+        {
+            "entities": [
+                [
+                    "drugs",
+                    27,
+                    32,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "these are examples of occasions where sedatives, stimulants or tranquillisers are used by individuals who see them either as aids to the performance of difficult tasks required of them in their jobs or social roles, or as a means of coping with overwhelming emotion.",
+        {
+            "entities": [
+                [
+                    "sedatives",
+                    39,
+                    48,
+                    "DRUG"
+                ],
+                [
+                    "stimulants",
+                    50,
+                    60,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "d. intensified drug use this is not entirely a clear-cut category, but it centres on the use of drugs in major doses at least daily.",
+        {
+            "entities": [
+                [
+                    "drug",
+                    16,
+                    20,
+                    "DRUG"
+                ],
+                [
+                    "drugs",
+                    97,
+                    102,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "examples are the heavily drinking businessman, the housewife taking large daily doses of tranquillisers or analgesics, and the young person who has turned to drugs as a source of meaning, excitement or escape in an unmanageable or unsupported adolescence.",
+        {
+            "entities": [
+                [
+                    "tranquillisers",
+                    90,
+                    104,
+                    "DRUG"
+                ],
+                [
+                    "analgesics",
+                    108,
+                    118,
+                    "DRUG"
+                ],
+                [
+                    "drugs",
+                    159,
+                    164,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "e. compulsive drug use producing psychological or physiological dependence such that the user cannot at will discontinue without experience significant mental or physical distress.",
+        {
+            "entities": [
+                [
+                    "drug",
+                    15,
+                    19,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "alcohol and heroin are at present the drugs which cause most harm to the individual and to society through their compulsive use.",
+        {
+            "entities": [
+                [
+                    "alcohol",
+                    1,
+                    8,
+                    "DRUG"
+                ],
+                [
+                    "heroin",
+                    13,
+                    19,
+                    "DRUG"
+                ],
+                [
+                    "drugs",
+                    39,
+                    44,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "as we have already explained, some drugs have unpredictable effects, so that even a single try out can have serious or fatal effects.",
+        {
+            "entities": [
+                [
+                    "drugs",
+                    36,
+                    41,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "moreover, for some individuals experimentation may be a prelude to deeper involvement with the use of drugs.",
+        {
+            "entities": [
+                [
+                    "drugs",
+                    103,
+                    108,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "social or recreational drug use generally remains under the user's control so that, provided doses are not rapidly increased, the risk of dependence is not great.",
+        {
+            "entities": [
+                [
+                    "drug",
+                    24,
+                    28,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "personality and experience influence the outcome, as does the dependence-inducing potential of the drug or drugs.",
+        {
+            "entities": [
+                [
+                    "drug",
+                    100,
+                    104,
+                    "DRUG"
+                ],
+                [
+                    "drugs",
+                    108,
+                    113,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "even with heroin, not all recreational users move on to intensified or compulsive use.",
+        {
+            "entities": [
+                [
+                    "heroin",
+                    11,
+                    17,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "nevertheless, recreational users of heroin may be dangerous to others since it is they (rather than the established addicts) who may introduce non-using acquaintances to this drug.",
+        {
+            "entities": [
+                [
+                    "heroin",
+                    37,
+                    43,
+                    "DRUG"
+                ],
+                [
+                    "drug",
+                    176,
+                    180,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "where a person begins to use a drug intensively or compulsively so that daily life is preoccupied with the drug, damage to health and to the community is more likely.",
+        {
+            "entities": [
+                [
+                    "drug",
+                    32,
+                    36,
+                    "DRUG"
+                ],
+                [
+                    "drug",
+                    108,
+                    112,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "prolonged high doses, which increase as tolerance to the drug develops, can produce addiction as well as functional or physical disorders depending on the drug or drugs used.",
+        {
+            "entities": [
+                [
+                    "drug",
+                    156,
+                    160,
+                    "DRUG"
+                ],
+                [
+                    "drugs",
+                    164,
+                    169,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "for example, alcohol taken in large quantities can produce coma as an acute response; but in the longer term heavy use can produce disease of the liver, heart, stomach and brain.",
+        {
+            "entities": [
+                [
+                    "alcohol",
+                    14,
+                    21,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "the heavy and sustained use of some compound analgesics may produce life-threatening kidney damage.",
+        {
+            "entities": [
+                [
+                    "analgesics",
+                    46,
+                    56,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "the way in which a particular drug is taken is important too.",
+        {
+            "entities": [
+                [
+                    "drug",
+                    31,
+                    35,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "heroin, for example, has relatively few actions on organs other than the brain, but careless intravenous injection carries the risk of hepatitis, and septic or embolic heart and lung disease.",
+        {
+            "entities": [
+                [
+                    "heroin",
+                    1,
+                    7,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "a preoccupation with obtaining and using a drug is often inconsistent with regular employment and the maintenance of stable relationships.",
+        {
+            "entities": [
+                [
+                    "drug",
+                    44,
+                    48,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "however, even compulsive use of drugs is not always incompatible with an otherwise dependent white-collar workers have been known to hide their dependence for many years and to continue professional and domestic life.",
+        {
+            "entities": [
+                [
+                    "drugs",
+                    33,
+                    38,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "but if experimental or recreational use of drugs carries relatively few risks, intensified and compulsive use increases the chances of impairing the user's health and of inflicting damage on other members of the community.''",
+        {
+            "entities": [
+                [
+                    "drugs",
+                    43,
+                    48,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "3.0 extent of use ''tranquilliser, sedative or other medicine for a nervous condition'' in the two days previous to interview and 3.7 percent had used sleeping pills or medicines.",
+        {
+            "entities": [
+                [
+                    "sedative",
+                    36,
+                    44,
+                    "DRUG"
+                ],
+                [
+                    "pills",
+                    161,
+                    166,
+                    "DRUG"
+                ],
+                [
+                    "medicines",
+                    170,
+                    179,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "from a cross-national countries, it was reported that ''the most prominent finding is that in every country surveyed over 60% of the past year users of anti with few exceptions the data indicate that female drug' users predominated at each age level in every rates of use of tranquillisers were of the order year.",
+        {
+            "entities": [
+                [
+                    "drug",
+                    208,
+                    212,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "in the survey conducted by the sa royal commission the rate of use in the past year was 3.3 longitudinal studies are needed to estimate the patterns of use of prescribed drugs.",
+        {
+            "entities": [
+                [
+                    "drugs",
+                    171,
+                    176,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "they and most other medical writers are confident that most users of prescribed drugs do so nonetheless, anecdotal reports suggests that many women do experience physical withdrawal symptoms documented case reports of physical dependence and prolonged withdrawal symptoms from the use of these drugs in therapeutic doses.",
+        {
+            "entities": [
+                [
+                    "drugs",
+                    81,
+                    86,
+                    "DRUG"
+                ],
+                [
+                    "drugs",
+                    295,
+                    300,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "3.4 currently prescribing of psychotropic drugs by australian doctors has stabilised, at least for prescriptions under the pharmaceutical benefits approximately 10.4 million prescriptions for prescribed under the pbs.",
+        {
+            "entities": [
+                [
+                    "psychotropic drugs",
+                    30,
+                    48,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "younger doctors have generally been found to prescribe fewer psychotropic drugs than their older counterparts, perhaps reflecting changed undergraduate teaching and attitudes with greater knowledge of non- pharmacological techniques for stress management.",
+        {
+            "entities": [
+                [
+                    "psychotropic drugs",
+                    62,
+                    80,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "3.5 the extent of use of heroin by women is not well documented.",
+        {
+            "entities": [
+                [
+                    "heroin",
+                    26,
+                    32,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "the general impression is that this drug is less often used by women than men, in contrast to prescribed tranquillisers etc.",
+        {
+            "entities": [
+                [
+                    "drug",
+                    37,
+                    41,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "the nsw women in prisons' task force estimated that thus the use of heroin is a particular problem in 3.6 relevant sections of the report of the nsw task force on women in prison which deal with women and drugs are summarised at appendix a. 3.7 reports of the experience of services provided specifically for drug dependent women are contained in appendix b. sources of information for this report: australasia,unpublished data from australian prescribing and morbidity survey.",
+        {
+            "entities": [
+                [
+                    "heroin",
+                    69,
+                    75,
+                    "DRUG"
+                ],
+                [
+                    "drugs",
+                    206,
+                    211,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "social table 1l: psychotropic drug prescriptions in australia antidepressants all psychotropic drugs l0.4 million source: commonwealth department of health table 2: age and sex factors in psychotropic drug patients antidepressants anxiety insomnia depression psychoses organic disease symptoms diazepam prescriptions be i a es report of the nsw task force on women in prison - summary of and excerpts from relevant sections of chapter 3 on women and a study of women in custody undertaken by the department of corrective services revealed that 78% of women interviewed had a history of drug and/or alcohol use.",
+        {
+            "entities": [
+                [
+                    "psychotropic drug",
+                    18,
+                    35,
+                    "DRUG"
+                ],
+                [
+                    "prescriptions",
+                    36,
+                    49,
+                    "DRUG"
+                ],
+                [
+                    "antidepressants",
+                    63,
+                    78,
+                    "DRUG"
+                ],
+                [
+                    "psychotropic drugs",
+                    83,
+                    101,
+                    "DRUG"
+                ],
+                [
+                    "psychotropic drug",
+                    189,
+                    206,
+                    "DRUG"
+                ],
+                [
+                    "antidepressants",
+                    216,
+                    231,
+                    "DRUG"
+                ],
+                [
+                    "diazepam prescriptions",
+                    295,
+                    317,
+                    "DRUG"
+                ],
+                [
+                    "drug",
+                    587,
+                    591,
+                    "DRUG"
+                ],
+                [
+                    "alcohol",
+                    599,
+                    606,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "the drug most frequently used was heroin.",
+        {
+            "entities": [
+                [
+                    "drug",
+                    5,
+                    9,
+                    "DRUG"
+                ],
+                [
+                    "heroin",
+                    35,
+                    41,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "for the age group 20-24, the with 68% claiming to use heroin either alone or in conjunction with other drugs; 22.8% of these young women had ''use drugs' as one of the offences with which they were the task force was therefore concerned to develop recommendations for policy in relation to the disturbingly high proportion of women offenders in custody for drug and the task force considered it necessary to include a review and assessment of the following issues: (a) the adequacy and appropriateness of drug rehabilitation and detoxification facilities in new south wales for women and, more particularly, for the profile of women presently in custody; and penalties in relation to drug use and abuse; c) the scope and efficacy of present procedures for diverting drug users from custody into appropriate which these procedures may be improved or extended; and for the population of drug-using and addicted women.",
+        {
+            "entities": [
+                [
+                    "heroin",
+                    55,
+                    61,
+                    "DRUG"
+                ],
+                [
+                    "drugs",
+                    104,
+                    109,
+                    "DRUG"
+                ],
+                [
+                    "drugs",
+                    148,
+                    153,
+                    "DRUG"
+                ],
+                [
+                    "drug",
+                    358,
+                    362,
+                    "DRUG"
+                ],
+                [
+                    "drug",
+                    685,
+                    689,
+                    "DRUG"
+                ],
+                [
+                    "drug",
+                    886,
+                    890,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "drug use and abuse is primarily a health and social problem, most effectively dealt with by health and social agencies.",
+        {
+            "entities": [
+                [
+                    "drug",
+                    1,
+                    5,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "drug dependence is chronic in nature and a drug-dependent individual will commonly seek many treatment options before she or he is able to control drug dependence.",
+        {
+            "entities": [
+                [
+                    "drug",
+                    44,
+                    48,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "it is generally agreed that the aims of drug rehabilitration are: to promote the possibility of change and to open up a range of new life options; to promote a caring, supportive emphasize the benefits of a drug-free lifestyle in a information about drug use and to promote physical and future life options.",
+        {
+            "entities": [
+                [
+                    "drug",
+                    41,
+                    45,
+                    "DRUG"
+                ],
+                [
+                    "drug",
+                    208,
+                    212,
+                    "DRUG"
+                ],
+                [
+                    "drug",
+                    251,
+                    255,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "the prison environment reinforces because of poor nutrition and lack of exercise, fails to these effects of prison life and the attendant features of separation from friends and family promote general alienation and a mental and emotional outlook which constitutes the very attitudes and feelings which a drug-dependent woman needs to confront and overcome in order to break the self-destructive cycle of drug dependence.",
+        {
+            "entities": [
+                [
+                    "drug",
+                    306,
+                    310,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "thus, the likelihood of continuing drug use on release is increased (as the results of a department of corrective services survey of the task force concluded that imprisonment for the great majority of women in nsw is an expensive and counterproductive exercise which causes a great deal of suffering to the drug-dependent individual.",
+        {
+            "entities": [
+                [
+                    "drug",
+                    36,
+                    40,
+                    "DRUG"
+                ],
+                [
+                    "drug",
+                    309,
+                    313,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "it also perpetuates the cycle of homelessness, poverty and unemployment that so many women were caught up in prior to while the success rate of drug and alcohol services is difficult to define and measure, it is clear that prison is a failure as a response to drug-dependant women, that existing drug and alcohol services are not meeting women's needs, and that no genuine attempt has been made to initiate and fund services which target drug-dependent women who are being processed through the criminal justice system.",
+        {
+            "entities": [
+                [
+                    "drug",
+                    145,
+                    149,
+                    "DRUG"
+                ],
+                [
+                    "alcohol",
+                    154,
+                    161,
+                    "DRUG"
+                ],
+                [
+                    "drug",
+                    261,
+                    265,
+                    "DRUG"
+                ],
+                [
+                    "drug",
+                    297,
+                    301,
+                    "DRUG"
+                ],
+                [
+                    "alcohol",
+                    306,
+                    313,
+                    "DRUG"
+                ],
+                [
+                    "drug",
+                    439,
+                    443,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "profile of drug-dependent women in prison the majority of women in prison in nsw are young, working class and caught up in a cycle of poverty, unemployment and homelessness.",
+        {
+            "entities": [
+                [
+                    "drug",
+                    12,
+                    16,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "many drug-dependent women may have sexual problems: for history; the use of sexuality to barter for the necessities of life and the effect of this on a woman's ability to identify her own sexual needs and desires.",
+        {
+            "entities": [
+                [
+                    "drug",
+                    6,
+                    10,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "the current rate of female teenage unemployment in new south the task force considers that services for drug-dependent women need to be directed not only to their drug use but also towards their needs for educational, vocational training, employment and counselling for sexual abuse.",
+        {
+            "entities": [
+                [
+                    "drug",
+                    164,
+                    168,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "with no adequate attention paid to the particular reality of drug-abusing women, women often find the therapeutic environment hostile or, at best, unresponsive to their needs.",
+        {
+            "entities": [
+                [
+                    "drug",
+                    62,
+                    66,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "(of the 47 women interviewed as part of the department of corrective services profiling study who have taken part in a rehabilitation programme, 72s said they did the task force sought information on drug programmes specifically designed to meet the needs of women in victoria and in the united states.",
+        {
+            "entities": [
+                [
+                    "72s",
+                    146,
+                    149,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "it means not knowing where to go and a further analysis of the specific needs of drug-dependent women and attempts to meet these needs in the united states is documented in ''special features and treatment needs of female drug offenders enter treatment with a much greater feeling of powerlessness and corresponding helplessness to change their present condition than males do.",
+        {
+            "entities": [
+                [
+                    "drug",
+                    82,
+                    86,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "the task force accordingly considered that the department of health and the drug and alcohol authority need area and country centres that would service all drug users, whether involved in the criminal justice system or not.",
+        {
+            "entities": [
+                [
+                    "drug",
+                    77,
+                    81,
+                    "DRUG"
+                ],
+                [
+                    "alcohol",
+                    86,
+                    93,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "provides some useful insights: offenders must not utilize the humiliation tactics of traditional drug treatment programs to sensitize women to their errors, nor should it use menial, sexually stereotyped tasks as learning experiences.",
+        {
+            "entities": [
+                [
+                    "drug",
+                    98,
+                    102,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "they should also focus on the social and political causes of female drug use and abuse is often an understandable option for women who perceive no future for themselves in this society.",
+        {
+            "entities": [
+                [
+                    "drug",
+                    69,
+                    73,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "the task force notes that there is a proportion of lesbian women incarcerated for drug and drug-related offences.",
+        {
+            "entities": [
+                [
+                    "drug",
+                    83,
+                    87,
+                    "DRUG"
+                ],
+                [
+                    "drug",
+                    92,
+                    96,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "in fact, a clear indication of the inadequacy and inappropriateness of current treatment programmes is reflected in the findings of the department's ''when asked to describe what they considered to be the effects of treatment on their drug use and temporary effect; for example 'it stopped me while i was there, but when i left i got back into it' one woman interviewed for the department's post-release survey had a three-stage theory of drug use: ''first there was the young girls who got into it mainly for the kicks, for something to do, didnt mind the work that when with it - in fact, liked the adrenalin rush of break and enter, and were still young enough to crack it on the streets.",
+        {
+            "entities": [
+                [
+                    "drug",
+                    236,
+                    240,
+                    "DRUG"
+                ],
+                [
+                    "drug",
+                    440,
+                    444,
+                    "DRUG"
+                ],
+                [
+                    "crack",
+                    668,
+                    673,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "then there was the older crowd who relied they had a habit but could still turn a trick or had a partner who sometimes supplied their drugs.",
+        {
+            "entities": [
+                [
+                    "drugs",
+                    135,
+                    140,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "it was then that you were likely to just she said she didnt know any women addicts who were over significant issues for staff training in drug and alcohol services there are a number of issues of particular significance to women prisoners who are drug dependent.",
+        {
+            "entities": [
+                [
+                    "drug",
+                    139,
+                    143,
+                    "DRUG"
+                ],
+                [
+                    "alcohol",
+                    148,
+                    155,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "these include undereating or overeating as a response to stress; use of drugs to achieve weight loss; the relationship health issues need to be recognized: for example, menstrual tension and libido levels in the early days of a drug-free life.",
+        {
+            "entities": [
+                [
+                    "drugs",
+                    73,
+                    78,
+                    "DRUG"
+                ],
+                [
+                    "drug",
+                    229,
+                    233,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "the need to provide child-care facilities to enable the mother more readily to participate in outpatient and inpatient services, and the broader issue of the effects of widespread popular attitudes towards a drug-dependent woman, are issues which need to be addressed.",
+        {
+            "entities": [
+                [
+                    "drug",
+                    209,
+                    213,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "the need for evaluation of existing services all agencies in the drug and alcohol field need to be encouraged to assess their success rate in attracting and retaining women in their programmes.",
+        {
+            "entities": [
+                [
+                    "drug",
+                    66,
+                    70,
+                    "DRUG"
+                ],
+                [
+                    "alcohol",
+                    75,
+                    82,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "some factors which need to be considered in making this assessment are whether women are outnumbered in the programme and if so, the effect this may have on a woman's level of participation, and whether single sex groups should be conducted within existing recommendations r. that entry to all treatment programmes should be r.that staff training programmes be developed to explore issues of particular concern to drug-dependent women and which target the special needs of women caught up in the criminal justice system.",
+        {
+            "entities": [
+                [
+                    "drug",
+                    416,
+                    420,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "staff in all agencies who have contact with drug-dependent women should have access to r. that drug and alcohol agencies be encouraged to assess their degree of success in attracting and retaining women and to develop procedures and mechanisms to improve their success rate.",
+        {
+            "entities": [
+                [
+                    "drug",
+                    45,
+                    49,
+                    "DRUG"
+                ],
+                [
+                    "drug",
+                    96,
+                    100,
+                    "DRUG"
+                ],
+                [
+                    "alcohol",
+                    105,
+                    112,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "while the task force sees the necessity for all drug and alcohol agencies to assess and improve their effectiveness with female drug offenders, it also sees the need for an agency which tailors its services directly to the needs of female offenders.",
+        {
+            "entities": [
+                [
+                    "drug",
+                    49,
+                    53,
+                    "DRUG"
+                ],
+                [
+                    "alcohol",
+                    58,
+                    65,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "treatment programme the special needs of women offenders as outlined in this report and in the article ''special features and treatment needs of experience and programmes at the pinaroo unit for omen at creswell house in victoria should also be r.that vocational training, educational programmes and employment schemes be co-ordinated to assist women who are drug-dependent, are caught up in the criminal justice system and who are endeavouring to break the cycle of unemployment, poverty and drug use.",
+        {
+            "entities": [
+                [
+                    "drug",
+                    361,
+                    365,
+                    "DRUG"
+                ],
+                [
+                    "drug",
+                    495,
+                    499,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "it has a stabilisation program of methadone as it has been found that the earlier in the pregnancy methadone is used, the better the results for the pregnancy.",
+        {
+            "entities": [
+                [
+                    "methadone",
+                    35,
+                    44,
+                    "DRUG"
+                ],
+                [
+                    "methadone",
+                    100,
+                    109,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "babies of narcotic addicted women suffer from growth retardation and prematurity, but not malformations as with alcoholic women.",
+        {
+            "entities": [
+                [
+                    "narcotic",
+                    11,
+                    19,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "late miscarriages are common for heroin addicts sudden infant death syndrome.",
+        {
+            "entities": [
+                [
+                    "heroin",
+                    34,
+                    40,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "no homes caring for mothers and babies will take women on methadone.",
+        {
+            "entities": [
+                [
+                    "methadone",
+                    59,
+                    68,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "the unit has funding for phoebe house, which will be a halfway house and therapeutic community for pregnant women, and young babies of narcotic addicts who must be on a methadone program.",
+        {
+            "entities": [
+                [
+                    "narcotic",
+                    136,
+                    144,
+                    "DRUG"
+                ],
+                [
+                    "methadone",
+                    170,
+                    179,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "when they are discharged from the hospital they are referred to the bourke street drug and alcohol centre which involves walking through kings cross and being exposed to addicts.",
+        {
+            "entities": [
+                [
+                    "drug",
+                    83,
+                    87,
+                    "DRUG"
+                ],
+                [
+                    "alcohol",
+                    92,
+                    99,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "the centre is only makes it even more difficult if travelling long addicts cannot be given more doses of methadone to take away to avoid having to come daily, because they are likely to sell it.",
+        {
+            "entities": [
+                [
+                    "methadone",
+                    106,
+                    115,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "two-thirds of women would be in a relationship when they go onto a methadone program or dry out.",
+        {
+            "entities": [
+                [
+                    "methadone",
+                    68,
+                    77,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "this can cause problems in the relationship - the man may be dependent on the woman to support his habit, and she may find she has nothing in common with him except their drug habit.",
+        {
+            "entities": [
+                [
+                    "drug",
+                    172,
+                    176,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "there is conflict particularly between methadone and drug free groups.",
+        {
+            "entities": [
+                [
+                    "methadone",
+                    40,
+                    49,
+                    "DRUG"
+                ],
+                [
+                    "drug",
+                    54,
+                    58,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "drug free groups wont acknowledge the dangers of withdrawal (8) there is far more emphasis on alcoholic women as there are more of them and yet a far greater percentage of women addicts die.",
+        {
+            "entities": [
+                [
+                    "drug",
+                    1,
+                    5,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "the women's place is funded under the proclaimed places under the act they are required to provide accommodation for alcohol intoxicated women for up to 8 hours.",
+        {
+            "entities": [
+                [
+                    "alcohol",
+                    118,
+                    125,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "however many seeking assistance are not intoxicated with alcohol but with drugs (narcotics or minor woman arrives at 2 pm, she cant be turned out onto the street in the middle of the night in accordance with the until they are over their intoxication.",
+        {
+            "entities": [
+                [
+                    "alcohol",
+                    58,
+                    65,
+                    "DRUG"
+                ],
+                [
+                    "drugs",
+                    75,
+                    80,
+                    "DRUG"
+                ],
+                [
+                    "narcotics",
+                    82,
+                    91,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "the majority of addicts they see would be narcotic users also take pills, very few addicts are using only heroin.",
+        {
+            "entities": [
+                [
+                    "narcotic",
+                    43,
+                    51,
+                    "DRUG"
+                ],
+                [
+                    "pills",
+                    68,
+                    73,
+                    "DRUG"
+                ],
+                [
+                    "heroin",
+                    107,
+                    113,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "however these addicts are almost worse than narcotic addicts because they commit silly they are clumsy and disoriented, whereas narcotic users have their wits about them and have stable women's place has seen people die from serapax withdrawal but no deaths from narcotic withdrawal.",
+        {
+            "entities": [
+                [
+                    "narcotic",
+                    45,
+                    53,
+                    "DRUG"
+                ],
+                [
+                    "narcotic",
+                    129,
+                    137,
+                    "DRUG"
+                ],
+                [
+                    "narcotic",
+                    264,
+                    272,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "heroin's physical withdrawal only begins at about 2 weeks, with very mt addict has to leave before the symptoms begin.",
+        {
+            "entities": [
+                [
+                    "heroin",
+                    1,
+                    7,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "there is need for access to child care for women attending rehabilitation sessions, such as narcotics there is a need for attitudes to addiction to change, including education at the judicial level as to the effectiveness of imprisonment for addiction.",
+        {
+            "entities": [
+                [
+                    "narcotics",
+                    93,
+                    102,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "it has 2 drug and alcohol workers who work specifically on drug and alcohol addiction and any other dependency problem.",
+        {
+            "entities": [
+                [
+                    "drug",
+                    10,
+                    14,
+                    "DRUG"
+                ],
+                [
+                    "drug",
+                    60,
+                    64,
+                    "DRUG"
+                ],
+                [
+                    "alcohol",
+                    69,
+                    76,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "they lot of outreach work, such as community education, petrol sniffing and alcohol.",
+        {
+            "entities": [
+                [
+                    "alcohol",
+                    76,
+                    83,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "they cant treat narcotic addicts because they dont have a detoxification unit.",
+        {
+            "entities": [
+                [
+                    "narcotic",
+                    17,
+                    25,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "the philosophy at the centre is to deal with addicts by means other than alternative drug treatment.",
+        {
+            "entities": [
+                [
+                    "drug",
+                    86,
+                    90,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "they refer drug addicts to clinics that deal with withdrawal procedures without any drugs.",
+        {
+            "entities": [
+                [
+                    "drugs",
+                    85,
+                    90,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "they also treat other problems of dependency such as food addiction - over eating or anorexia - often associated with drugs.",
+        {
+            "entities": [
+                [
+                    "drugs",
+                    119,
+                    124,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "the centre is also interested in looking at the effects of combinations of drugs.",
+        {
+            "entities": [
+                [
+                    "drugs",
+                    76,
+                    81,
+                    "DRUG"
+                ]
+            ]
+        }
+    ],
+    [
+        "the centre runs a minor tranquilliser clinic which helps women withdraw gradually from mt under close while the women were on drugs their emotional development was arrested.",
+        {
+            "entities": [
+                [
+                    "drugs",
+                    127,
+                    132,
+                    "DRUG"
+                ]
+            ]
+        }
+    ]
+]

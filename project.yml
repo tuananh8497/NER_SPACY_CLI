@@ -1,0 +1,145 @@
+title: "Detecting Drug names in documents produced by OCR techniques from NAA (Named Entity Recognition)"
+description: "This project is meant to test the cli and project setup for spacy project"
+# Variables can be referenced across the project.yml using ${vars.var_name}
+vars:
+  baseConfig: "base_config.cfg"
+  config: "config.cfg"
+  name: "ner_drugs"
+  version: "0.0.0"
+  pipeline: "en_core_web_lg"
+  train: "drugs_training"
+  dev: "drugs_eval"
+  patterns: "drugs_patterns"
+  # Set your GPU ID, -1 is CPU
+  gpu_id: -1
+
+# These are the directories that the project needs. The project CLI will make
+# sure that they always exist.
+directories: ["assets", "training", "configs", "scripts", "corpus", "packages"]
+
+# Assets that should be downloaded or available in the directory. We're shipping
+# them with the project, so they won't have to be downloaded. But the
+# 'project assets' command still lets you verify that the checksums match.
+assets:
+  - dest: "assets/${vars.train}.jsonl"
+    checksum: "4461081e67d8160cab4624e61448f371"
+    description: "JSONL-formatted training data exported from Prodigy, annotated with `DRUG` entities (1477 examples)"
+  - dest: "assets/${vars.dev}.jsonl"
+    checksum: "4d730f6132de46fad3f76720ce9794f7"
+    description: "JSONL-formatted development data exported from Prodigy, annotated with `DRUG` entities (500 examples)"
+  # Patterns are not used for training but we distribute them for reference
+  - dest: "assets/${vars.patterns}.jsonl"
+    checksum: "52f2eeb52e9ac8fbf2d2829007b9e48d"
+    description: "Patterns file generated with `terms.teach` and used to pre-highlight during annotation (118 patterns)"
+
+# Workflows are sequences of commands (see below) executed in order. You can
+# run them via "spacy project run [workflow]". If a commands's inputs/outputs
+# haven't changed, it won't be re-run.
+workflows:
+  all:
+    - download
+    - preprocess
+    - create-config
+    - train
+    - evaluate
+    - summarise
+
+# Project commands, specified in a style similar to CI config files (e.g. Azure
+# pipelines). The name is the command name that lets you trigger the command
+# via "spacy project run [command] [path]". The help message is optional and
+# shown when executing "spacy project run [optional command] [path] --help".
+commands:
+  - name: "download"
+    help: "Download the pretrained pipeline"
+    script:
+    - "python -m spacy download ${vars.pipeline}"
+
+  - name: "config"
+    help: "init the config from base.config to Spacy Config format"
+    script:
+      - "python -m spacy init fill-config ./configs/${vars.baseConfig} ./configs/${vars.config}"
+    deps:
+      - "configs/${vars.baseConfig}"
+    outputs:
+      - "configs/${vars.config}"
+
+  - name: "create-config"
+    help: "Create a config for updating only NER from an existing pipeline"
+    script:
+      - "python scripts/create_config.py ${vars.pipeline} ner configs/config.cfg"
+    deps:
+      - "scripts/create_config.py"
+    outputs:
+      - "configs/config.cfg"
+
+  - name: "preprocess"
+    help: "Convert the data to spaCy's binary format"
+    script:
+      - "python scripts/preprocess.py assets/${vars.train}.jsonl corpus/${vars.train}.spacy"
+      - "python scripts/preprocess.py assets/${vars.dev}.jsonl corpus/${vars.dev}.spacy"
+    deps:
+      - "assets/${vars.train}.jsonl"
+      - "assets/${vars.dev}.jsonl"
+      - "scripts/preprocess.py"
+    outputs:
+      - "corpus/${vars.train}.spacy"
+      - "corpus/${vars.dev}.spacy"
+
+  - name: "train"
+    help: "Train a named entity recognition model"
+    script:
+      - "python -m spacy train configs/${vars.config} --output training/ --paths.train corpus/${vars.train}.spacy --paths.dev corpus/${vars.dev}.spacy"
+    deps:
+      - "corpus/${vars.train}.spacy"
+      - "corpus/${vars.dev}.spacy"
+    outputs:
+      - "training/model-best"
+
+  - name: "evaluate"
+    help: "Evaluate the model and export metrics"
+    script:
+      - "python -m spacy evaluate training/model-best corpus/${vars.dev}.spacy --output training/metrics.json"
+    deps:
+      - "corpus/${vars.dev}.spacy"
+      - "training/model-best"
+    outputs:
+      - "training/metrics.json"
+
+  - name: package
+    help: "Package the trained model so it can be installed"
+    script:
+      - "python -m spacy package training/model-best packages --name ${vars.name} --version ${vars.version} --force"
+    deps:
+      - "training/model-best"
+    outputs_no_cache:
+      - "packages/en_${vars.name}-${vars.version}/dist/en_${vars.name}-${vars.version}.tar.gz"
+
+  - name: visualize-model
+    help: Visualize the model's output interactively using Streamlit
+    script:
+      - "streamlit run scripts/visualize_model.py training/model-best \"He was prescribed Aspirin.\""
+    deps:
+      - "scripts/visualize_model.py"
+      - "training/model-best"
+
+  - name: "visualize-data"
+    help: "Explore the annotated data in an interactive Streamlit app"
+    script:
+      - "streamlit run scripts/visualize_data.py assets/${vars.train}.jsonl,assets/${vars.dev}.jsonl"
+    deps:
+      - "scripts/visualize_data.py"
+      - "assets/${vars.train}.jsonl"
+      - "assets/${vars.dev}.jsonl"
+
+  - name: "summarise"
+    help: "Go through all unstructure data in ocr folder, run NER, print out entity summarise and text with entity."
+    script:
+      - "python scripts/entity_extraction.py ./ocr/ ner/ner_extract/ner_extracted_ ner/ner_summary/ner_summary_"
+    deps:
+      - "scripts/entity_extraction.py"
+      
+  - name: "clean"
+    help: "Remove intermediate files to start data preparation and training from a clean slate."
+    script:
+      - "rm -rf corpus/*"
+      - "rm -rf training/*"
